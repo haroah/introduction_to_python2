@@ -1,0 +1,1 @@
+print(len("Hello humans living on the plant of Earth!"))
